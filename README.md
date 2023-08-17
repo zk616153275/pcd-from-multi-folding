@@ -1,4 +1,4 @@
-# Proof carrying data from multi-folding schemes
+# Proof-carrying data from multi-folding schemes
 
 A complete implementation of the [Hypernova](https://eprint.iacr.org/2023/573) folding scheme (see section 5 of the paper) in arkworks.
 

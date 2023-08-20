@@ -2,6 +2,8 @@
 
 TODO: A complete implementation of a proof-carrying data scheme from multi-folding schemes.
 
+The corresponding manuscript will be published soon.
+
 This implementation is not meant to be used in production. 
 
 <!--
